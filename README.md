@@ -1,8 +1,8 @@
 # XMasSantaGenerator
 
-Permet de faire une liste de distribution des cadeau.
+Permets de faire une liste de distribution des cadeaux.
 
-Entrez les noms des personne qui offrent un cadeau puis cliquez sur le bouton "distribuer" pour optenir une liste aléatoire des pères noël.
+Entrez les noms des personnes qui offrent un cadeau puis cliquez sur le bouton "Distribution" pour obtenir une liste aléatoire des pères Noël.
 
 
 ---
