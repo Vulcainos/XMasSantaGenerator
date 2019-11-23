@@ -11,4 +11,6 @@ Entrez les noms des personne qui offrent un cadeau puis cliquez sur le bouton "d
 
 
 ## Téléchargement :
-[Jar executable](https://github.com/Vulcainos/XMasSantaGenerator/raw/master/SantaGenerator.jar)
+   - [Jar executable](https://github.com/Vulcainos/XMasSantaGenerator/raw/master/SantaGenerator.jar)
+
+   - [SantaGenerator.exe](https://github.com/Vulcainos/XMasSantaGenerator/raw/master/SantaGenerator.exe)
