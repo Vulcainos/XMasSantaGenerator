@@ -1,5 +1,7 @@
 # XMasSantaGenerator
 
+![texte alt](https://vulcainos.fr/images/santageneratorlogo.png)
+
 Permets de faire une liste de distribution des cadeaux.
 
 Entrez les noms des personnes qui offrent un cadeau puis cliquez sur le bouton "Distribution" pour obtenir une liste aléatoire des pères Noël.
