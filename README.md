@@ -1,6 +1,6 @@
 # XMasSantaGenerator
 
-![texte alt](https://vulcainos.fr/images/santageneratorlogo.png)
+![texte alt](vulcainos.fr/images/santageneratorlogo.png)
 
 Permets de faire une liste de distribution des cadeaux.
 
